@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"sc",
+				"scss-compile"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"font",
+				"font-size: 〔property〕"
+			],
+			[
+				"global",
+				"global-js	(omnomnom.info.yml)"
+			],
+			[
+				"m",
+				"marquee"
+			],
+			[
+				"Response",
+				"http_response_code"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-variant-numeric"
+			],
+			[
+				"dish",
+				"dish"
+			],
+			[
+				"rta",
+				"vertical-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"target",
+				"target_heading"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/yukiko/Sites/devdesktop/demo_search/autoload.php",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "task",
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Git: Init"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Set Syntax: CSS3"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pakcage",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"set",
+				"Set Syntax: Sass"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"installe",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"sa",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 554.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yukiko/Sites/devdesktop/demo_search"
+	],
+	"file_history":
+	[
+		"/Users/yukiko/Sites/devdesktop/search_demo2/core/modules/ckeditor/ckeditor.module",
+		"/Users/yukiko/Sites/devdesktop/search_demo2/.htaccess",
+		"/Users/yukiko/Sites/devdesktop/search_demo/results.php",
+		"/Users/yukiko/Sites/devdesktop/search_demo/README.txt",
+		"/Users/yukiko/Sites/d815/gulpfile.js",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/omnomnom.info.yml",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/scss/_site-layout.scss",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/templates/layout/page--front.html.twig",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/templates/layout/page.html.twig",
+		"/Users/yukiko/Sites/d815/_0_project/dev_notes.txt",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/omnomnom.libraries.yml",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/scss/layout.scss",
+		"/Users/yukiko/Sites/d815/package.json",
+		"/Users/yukiko/Sites/d815/.sassbuilder-config.json",
+		"/Users/yukiko/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/scss/.sassbuilder-config",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/scss/_site-global.scss",
+		"/Users/yukiko/Downloads/Backup-codes-yukikogannett.txt",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/_site-layout.scss",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/templates/layout/html.html.twig",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/_ionicons-font.scss",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/_ionicons-variables.scss",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/_ionicons-icons.scss",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/css/ionicons.css",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/global.scss",
+		"/Users/yukiko/Sites/d815/_d8theming-3/sass/_globals.scss",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/_site-global.scss",
+		"/Users/yukiko/Sites/d815/_d8theming-3/gulpfile.js",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/global.css",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/resources/scss/ionicons.css",
+		"/Users/yukiko/Sites/d815/core/themes/stable/templates/layout/page.html.twig",
+		"/Users/yukiko/Sites/site2/template_recipe.html",
+		"/Users/yukiko/Sites/d815/_0_project/d815.sassbuilder-config",
+		"/Users/yukiko/Sites/d815/themes/gulpfile.js",
+		"/Users/yukiko/Sites/d815/themes/custom/omnomnom/js/vendor/responsive-nav.js",
+		"/Users/yukiko/Sites/site2/index.html",
+		"/Users/yukiko/Sites/d815/sites/default/default.settings.php",
+		"/Users/yukiko/Sites/d815/core/themes/classy/classy.libraries.yml",
+		"/Users/yukiko/Sites/d815/sites/default/settings.php",
+		"/Users/yukiko/Sites/d815/sites/default/settings.local.php",
+		"/Users/yukiko/Sites/d815/sites/development.services.yml",
+		"/Users/yukiko/Sites/d815/themes/contrib/adminimal_theme/css/adminimal.css",
+		"/Users/yukiko/Sites/_localhost.txt",
+		"/Users/yukiko/Sites/devdesktop/organization1veterans-dev/docroot/README.txt",
+		"/Users/yukiko/Sites/underhood/themes/custom/icecream/icecream.info.yml",
+		"/Users/yukiko/Sites/underhood/themes/custom/icecream/templates/content/node.html.twig",
+		"/Users/yukiko/Desktop/sim.txt",
+		"/Users/yukiko/Sites/underhood/themes/contribute/ice cream/ice_cream.info.yml",
+		"/Users/yukiko/Sites/underhood/sites/default/settings.php",
+		"/Users/yukiko/Sites/underhood/sites/development.services.yml",
+		"/Users/yukiko/Sites/underhood/sites/default/settings.local.php",
+		"/Users/yukiko/Sites/underhood/modules/dino_roar/dino_roar.routing.yml",
+		"/Users/yukiko/Sites/underhood/modules/dino_roar/src/Controller/RoarController.php",
+		"/Users/yukiko/Sites/underhood/core/modules/simpletest/tests/fixtures/phpunit_error.xml",
+		"/Users/yukiko/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/yukiko/Sites/underhood/vendor/composer/autoload_real.php",
+		"/Users/yukiko/Sites/underhood/modules/dino_roar/dino_roar.info.yml",
+		"/Users/yukiko/Sites/underhood/.gitignore",
+		"/Users/yukiko/Sites/underhood/example.gitignore",
+		"/Users/yukiko/Sites/underhood/_0_project/siteinfo.txt",
+		"/Users/yukiko/Sites/underhood/core/INSTALL.txt",
+		"/Users/yukiko/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/yukiko/Sites/d8_sandbox1/_0_project/siteinfo.txt",
+		"/Users/yukiko/Sites/d8_sandbox1/core/INSTALL.txt",
+		"/Users/yukiko/Sites/drupal8_sandbox/vendor/symfony/http-foundation/Response.php",
+		"/Users/yukiko/Sites/site2/resources/scss/_site-variables.scss",
+		"/Users/yukiko/Sites/site2/_0_project/site2.sublime-project",
+		"/Users/yukiko/Sites/site2/_0_project/site2/resources/scss/_site-global.scss",
+		"/Users/yukiko/Desktop/CSScomb.sublime-settings",
+		"/Users/yukiko/Library/Application Support/Sublime Text 3/Packages/User/CSScomb.sublime-settings",
+		"/Users/yukiko/Sites/site2/resources/scss/_site-global.scss",
+		"/Users/yukiko/Sites/site2/resources/scss/_site-layout.scss",
+		"/Users/yukiko/Sites/site2/resources/scss/_site-navigation.scss",
+		"/Users/yukiko/Sites/framework/index.html",
+		"/Users/yukiko/Sites/framework/resources/scss/_site-global.scss",
+		"/Users/yukiko/Sites/framework/resources/scss/_site-layout.scss",
+		"/Users/yukiko/Sites/framework/resources/scss/_site-variables.scss",
+		"/Users/yukiko/Sites/framework/resources/scss/_site-navigation.scss",
+		"/Users/yukiko/Sites/framework/resources/scss/navigation.scss",
+		"/Users/yukiko/Sites/framework/resources/scss/layout.scss",
+		"/Users/yukiko/Sites/framework/resources/scss/global.scss",
+		"/Users/yukiko/Desktop/yandex.json",
+		"/Users/yukiko/Desktop/zen.json",
+		"/Users/yukiko/Desktop/csscomb.json",
+		"/Users/yukiko/Sites/site2/yaml.xson",
+		"/Users/yukiko/Sites/site2/template_category.html",
+		"/Users/yukiko/Sites/site2/template_cateory.html",
+		"/Users/yukiko/Sites/site2/manifest.json",
+		"/Users/yukiko/Sites/dev_framework/_originals/html5-boilerplate-master/dist/index.html",
+		"/Users/yukiko/Sites/site2/resources/css/global.css",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/advanced/index.html",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/advanced/responsive-nav.css",
+		"/Users/yukiko/Sites/site2/resources/js/vendor/responsive-nav.js",
+		"/Users/yukiko/Sites/site2/resources/scss/navigation.scss",
+		"/Users/yukiko/Sites/site2/resources/css/layout.css",
+		"/Users/yukiko/Sites/site2/resources/css/vendor/responsive-nav.css",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/responsive-nav.css",
+		"/Users/yukiko/Sites/site2/resources/js/vendor/responsive-nav.min.js",
+		"/Users/yukiko/Sites/site2/resources/js/plugins.js",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/advanced/styles.css",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/multiple-navigations/index.html",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/ie-support-using-respondjs/index.html",
+		"/Users/yukiko/Sites/site2.sublime-project",
+		"/Users/yukiko/Sites/site1.sublime-project",
+		"/Users/yukiko/Sites/site1.sublime-workspace",
+		"/Users/yukiko/Desktop/mysql-root-credentials.txt",
+		"/Users/yukiko/Sites/site2/checklist.todo",
+		"/Users/yukiko/Sites/site2/responsive-nav.js",
+		"/Users/yukiko/Sites/site2/resources/js/main.js",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/multiple-navigations-combined/index.html",
+		"/Users/yukiko/Sites/site2/responsive-nav.js-master/demos/multiple-navigations-combined/styles.css",
+		"/Users/yukiko/Sites/dev_framework/index.html",
+		"/Users/yukiko/Sites/dev_framework/resources/scss/_site-global.scss",
+		"/Users/yukiko/Sites/dev_framework/resources/scss/_site-layout.scss",
+		"/Users/yukiko/Sites/dev_framework/resources/scss/_ionicons-icons.scss",
+		"/Users/yukiko/Sites/dev_framework/resources/scss/_ionicons-variables.scss",
+		"/Users/yukiko/Sites/dev_framework/resources/scss/_site-variables.scss",
+		"/Users/yukiko/Sites/site2/resources/css/vendor/ionicons.css",
+		"/Users/yukiko/Sites/site2/_backup_layout.scss",
+		"/Users/yukiko/Desktop/designbyfront-The-Goldilocks-Approach-1b0afd2/css/example/layout.css",
+		"/Users/yukiko/Desktop/designbyfront-The-Goldilocks-Approach-1b0afd2/css/example/global.css",
+		"/Users/yukiko/Desktop/designbyfront-The-Goldilocks-Approach-1b0afd2/css/global.css",
+		"/Users/yukiko/Desktop/designbyfront-The-Goldilocks-Approach-1b0afd2/css/layout.css",
+		"/Users/yukiko/Sites/site2/_backup_global.scss",
+		"/Users/yukiko/Desktop/designbyfront-The-Goldilocks-Approach-1b0afd2/index.html",
+		"/Users/yukiko/Sites/dev_framework/_originals/Goldilocks/css/example/layout.css",
+		"/Users/yukiko/Sites/dev_framework/_originals/Goldilocks/css/example/global.css",
+		"/Users/yukiko/Sites/site2/resources/scss/layout.scss"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$context['profile']->editor",
+			"$context['profile']->editor == 'ckeditor'",
+			"hook_wysiwyg_editor_settings_alter()",
+			" * Implements hook_wysiwyg_editor_settings_alter()",
+			" * Implements hook_wysiwyg_editor_settings_alter().",
+			"hash_salt",
+			"#abb7b7",
+			"header",
+			"'/resources",
+			"\"/resources",
+			".source",
+			">\n",
+			"orientation",
+			"label",
+			"#f4f6f6 ",
+			".quicklinks",
+			"0",
+			"h2",
+			"=\"resources",
+			".container",
+			".nav-toggle",
+			".skip",
+			"hamburger.gif",
+			"hamberger.gif",
+			"=\"resouces",
+			"=\"resources",
+			"<h3>by",
+			"<section>",
+			"h3",
+			".skip",
+			"<i class=\"icon \"><span class=\"accessibility\">",
+			"1.618em; /* $default-line-height */ \n",
+			"$default-line-height;\n",
+			";\n",
+			"\"/resources/",
+			">$",
+			"qunit",
+			"AddType",
+			"\";\n",
+			"nav",
+			"        <div class=\"skip\">\n            <a href=\"#main\">Skip to Main Content</a>\n            <a href=\"#nav\">Skip to Main Menu</a>\n        </div>",
+			"red",
+			"resources",
+			"238",
+			"/>\n",
+			"linked_tab",
+			"//   ",
+			"\n<!--[",
+			"800",
+			"225",
+			"421"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"..",
+			"=\"/resources",
+			"<h3><i>by</i> ",
+			"<section class=\"row\">",
+			"h4",
+			"",
+			"$default-line-height;",
+			"1.618em; /* $default-line-height */",
+			"\"resources/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/yukiko/Sites/devdesktop/demo_search/autoload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_helper.file_palette":
+							[
+							],
+							"color_helper.scan":
+							{
+								"allowed_colors":
+								[
+									"webcolors",
+									"hex",
+									"hex_compressed",
+									"rgba",
+									"rgb",
+									"hsla",
+									"hsl"
+								],
+								"compress_hex_output": true,
+								"current_ext": ".php",
+								"current_syntax": "PHP/PHP",
+								"enabled": true,
+								"last_updated": 1470920661.59,
+								"scan_completion_scopes":
+								[
+								],
+								"scan_scopes":
+								[
+									"meta.property-list.css -support.type.property-name.css -comment -string",
+									"meta.property-value.css -comment -string",
+									"meta.value.css -comment -string",
+									"meta.tag.inline.any.html string.quoted",
+									"meta.tag.any.html meta.attribute-with-value.style.html"
+								],
+								"use_hex_argb": false
+							},
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "demo_search.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/CodeDynamicWebsites/php.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
